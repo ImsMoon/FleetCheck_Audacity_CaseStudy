@@ -1,0 +1,4 @@
+# dependencies and local output
+node_modules
+input.json
+result.json
